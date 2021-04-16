@@ -1,6 +1,8 @@
 # xss0scanner
 A simple javascript web based tool for scanning xss on a website
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
 # Steps To Run This Tool:
 
 - Clone this project
